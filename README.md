@@ -100,7 +100,7 @@ Visit `http://127.0.0.1:8000/` to access the app.
 
 ## 📸 Screenshots
 
-> [App Front page](./static/media/category/ss.png)
+> ![App Front page](./static/media/category/ss.png)
 ---
 
 
